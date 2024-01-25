@@ -33,4 +33,4 @@ while bidding:
             if bid > highest_bid:
                 highest_bid = bid
                 winner = bidder
-            print(f"The winner is {winner} with a bid amount of £{highest_bid}")
+    print(f"The winner is {winner} with a bid amount of £{highest_bid}")
